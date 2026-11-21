@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mushaf.alahidan"
+    namespace = "com.adan.alahidan"
     compileSdk = 34
 
     defaultConfig {
